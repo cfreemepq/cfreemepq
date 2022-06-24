@@ -1,3 +1,3 @@
 ### Casanova
 
-![from_url](https://i.imgur.com/Bn9ozNa)
+![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
