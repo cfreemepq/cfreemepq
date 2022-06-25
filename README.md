@@ -3,19 +3,8 @@
 
 ```diff
 - twitter @cfreemepq
-+ text in green
-! text in orange
-# text in gray
+
++ roblox @BALAONOOB
+
+! discord @Ressourcement#7056
 ```
- `` `json 
- // x
-` `` 
-. `` `html 
- // code pour la coloration 
- `` `
-` `` js 
- // code pour la coloration 
- `“ `
-` `` css 
- // code pour la coloration 
- `` `
