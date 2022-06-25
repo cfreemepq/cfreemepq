@@ -3,5 +3,8 @@
 
 
 ```lua
-C:\Admin\casanova\main.lua>
+local cfreemepq = "casanova"
+---------------------------
+local Discord = "Ressourcement#7056"
+---------------------------
 ```
