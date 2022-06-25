@@ -1,7 +1,6 @@
-### cfreemepq
 ![This is an image](https://cdn.discordapp.com/attachments/980501992642318366/990306415929327646/utiliser-gifs-08.gif)
 
-# local user = 
+# Infos  
 ```lua
 local cfreemepq = "casanova"                                           
 ---------------------------
