@@ -3,8 +3,8 @@
 
 
 ```lua
-local cfreemepq = "casanova"
+< local cfreemepq = "casanova" >
 ---------------------------
-local Discord = "Ressourcement#7056"
+< local Discord = "Ressourcement#7056" >
 ---------------------------
 ```
