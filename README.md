@@ -3,8 +3,12 @@
 
 
 ```lua
-< local cfreemepq = "casanova" >
+local cfreemepq = "casanova" 
 ---------------------------
-< local Discord = "Ressourcement#7056" >
+local Discord.Username = "Ressourcement#7056" 
+---------------------------
+local Discord.ID = "944565807940251668"
+---------------------------
+local Creation.Date = "Sat, 19 Feb 2022 12:07:17"
 ---------------------------
 ```
