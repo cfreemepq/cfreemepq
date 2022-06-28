@@ -4,7 +4,7 @@
 ```lua
 local cfreemepq = "casanova"                                           
 ---------------------------
-local Discord.Username = "@Ressourcement#7056" 
+local Discord.Username = "@due#7056" 
 ---------------------------
 local Discord.ID = "944565807940251668"
 ---------------------------
