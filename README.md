@@ -1,5 +1,3 @@
-![This is an image](https://cdn.discordapp.com/attachments/980501992642318366/990306415929327646/utiliser-gifs-08.gif)
-
 # Infos  
 ```css
         _____                                                     
@@ -12,7 +10,7 @@ _/ ___\   __\\_  __ \_/ __ \_/ __ \ /     \_/ __ \\____ \  / ____/
 ```lua
 local cfreemepq = "casanova"                                           
 ---------------------------
-local Discord.Username = "@cfreemepq#7056" 
+local Discord.Username = "@thuglife4#7056" 
 ---------------------------
 local Discord.ID = "944565807940251668"
 ---------------------------
