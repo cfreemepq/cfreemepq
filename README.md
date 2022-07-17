@@ -10,7 +10,7 @@ _/ ___\   __\\_  __ \_/ __ \_/ __ \ /     \_/ __ \\____ \  / ____/
 ```lua
 local cfreemepq = "casanova"                                           
 ---------------------------
-local Discord.Username = "@thuglife4#7056" 
+local Discord.Username = "⃟⃞P#7056" 
 ---------------------------
 local Discord.ID = "944565807940251668"
 ---------------------------
