@@ -10,12 +10,6 @@ _/ ___\   __\\_  __ \_/ __ \_/ __ \ /     \_/ __ \\____ \  / ____/
 ```lua
 local cfreemepq = "casanova"                                           
 ---------------------------
-local Discord.Username = "⃟⃞P#7056" 
----------------------------
-local Discord.ID = "944565807940251668"
----------------------------
-local Creation.Date = "Sat, 19 Feb 2022 12:07:17"
----------------------------
 local Twitter = "@cfreemepq"
 ---------------------------
 local Roblox = "@BALAONOOB"
